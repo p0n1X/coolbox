@@ -1,0 +1,7 @@
+MYSQL_ROOT_PASSWORD=12345678
+DB_USERNAME='admin'
+DB_PASSWORD='123456'
+DB_DATABASE='data_app'
+DB_PORT=3306
+DB_HOST='localhost'
+DB_ENGINE='django.db.backends.mysql'
